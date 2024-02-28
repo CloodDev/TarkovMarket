@@ -1,0 +1,16 @@
+C:\Users\clood\source\repos\TarkovMarket\TarkovMarket\TarkovMarket\obj\Debug\netstandard2.0\TarkovMarket.csproj.AssemblyReference.cache
+C:\Users\clood\source\repos\TarkovMarket\TarkovMarket\TarkovMarket\obj\Debug\netstandard2.0\TarkovMarket.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\clood\source\repos\TarkovMarket\TarkovMarket\TarkovMarket\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\clood\source\repos\TarkovMarket\TarkovMarket\TarkovMarket\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\clood\source\repos\TarkovMarket\TarkovMarket\TarkovMarket\obj\Debug\netstandard2.0\TarkovMarket.AssemblyInfoInputs.cache
+C:\Users\clood\source\repos\TarkovMarket\TarkovMarket\TarkovMarket\obj\Debug\netstandard2.0\TarkovMarket.AssemblyInfo.cs
+C:\Users\clood\source\repos\TarkovMarket\TarkovMarket\TarkovMarket\obj\Debug\netstandard2.0\TarkovMarket.csproj.CoreCompileInputs.cache
+C:\Users\clood\source\repos\TarkovMarket\TarkovMarket\TarkovMarket\obj\Debug\netstandard2.0\TarkovMarket.sourcelink.json
+C:\Users\clood\source\repos\TarkovMarket\TarkovMarket\TarkovMarket\bin\Debug\netstandard2.0\TarkovMarket.deps.json
+C:\Users\clood\source\repos\TarkovMarket\TarkovMarket\TarkovMarket\bin\Debug\netstandard2.0\TarkovMarket.dll
+C:\Users\clood\source\repos\TarkovMarket\TarkovMarket\TarkovMarket\bin\Debug\netstandard2.0\ref\TarkovMarket.dll
+C:\Users\clood\source\repos\TarkovMarket\TarkovMarket\TarkovMarket\bin\Debug\netstandard2.0\TarkovMarket.pdb
+C:\Users\clood\source\repos\TarkovMarket\TarkovMarket\TarkovMarket\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\clood\source\repos\TarkovMarket\TarkovMarket\TarkovMarket\obj\Debug\netstandard2.0\TarkovMarket.dll
+C:\Users\clood\source\repos\TarkovMarket\TarkovMarket\TarkovMarket\obj\Debug\netstandard2.0\refint\TarkovMarket.dll
+C:\Users\clood\source\repos\TarkovMarket\TarkovMarket\TarkovMarket\obj\Debug\netstandard2.0\TarkovMarket.pdb

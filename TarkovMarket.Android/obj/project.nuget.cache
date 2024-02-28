@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "uhEtYO5S623wfV958lmdybD4YVINRCo0zS5/mWS1zdeI7pp0rWNGWV77QyTvOVsMOCliBNlc145e5e+6Ncn9dw==",
+  "dgSpecHash": "818CxUUyWqcyvDsHge2yitNlI9X0CVoLqHMlB3R1EpWFId3EDw8938k5WlBIwaESckJB1OYdRC6TE4+irg4lvw==",
   "success": true,
   "projectFilePath": "C:\\Users\\clood\\source\\repos\\TarkovMarket\\TarkovMarket\\TarkovMarket.Android\\TarkovMarket.Android.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\clood\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\clood\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\clood\\.nuget\\packages\\xamarin.androidx.activity\\1.2.4.1\\xamarin.androidx.activity.1.2.4.1.nupkg.sha512",
     "C:\\Users\\clood\\.nuget\\packages\\xamarin.androidx.annotation\\1.2.0.1\\xamarin.androidx.annotation.1.2.0.1.nupkg.sha512",

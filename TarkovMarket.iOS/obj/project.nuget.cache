@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "jac2Qs35NkuZrB1iInX4o3zYp3Ya+mjRFxk0myoC6n/qBb6Giq8ZfKfHE6GtzADPs7ezfWwEt/w6kQuya0/xdQ==",
+  "dgSpecHash": "sZL4aBc1F8BiHQQbwNNxzx0RhPSOz4aWqjw02twvzTYPGvupGmeWYKyhW12dRBVFOJRXK48RFFGDMaF5zrFQhA==",
   "success": true,
   "projectFilePath": "C:\\Users\\clood\\source\\repos\\TarkovMarket\\TarkovMarket\\TarkovMarket.iOS\\TarkovMarket.iOS.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\clood\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\clood\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\clood\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
     "C:\\Users\\clood\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"

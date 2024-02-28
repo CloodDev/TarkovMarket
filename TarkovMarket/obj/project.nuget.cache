@@ -1,11 +1,12 @@
 {
   "version": 2,
-  "dgSpecHash": "bVFEgRUNBucSCLwYP2eJPurTirRnNSx2nJhzyTqlo+vV4tMS0Bbn1l1Y53Z3c7HHXiwBAQ5cbc+msBU/9n9MLg==",
+  "dgSpecHash": "9pkJIygNEgT9DLzlidz9ufWxen4eMLa/neOCuMXq4y8MFO3zrMqEByLyA6xaI5NnsxE1rOIS1Oa5DGT2/rcOUg==",
   "success": true,
   "projectFilePath": "C:\\Users\\clood\\source\\repos\\TarkovMarket\\TarkovMarket\\TarkovMarket\\TarkovMarket.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\clood\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\clood\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\clood\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\clood\\.nuget\\packages\\system.numerics.vectors\\4.5.0\\system.numerics.vectors.4.5.0.nupkg.sha512",
     "C:\\Users\\clood\\.nuget\\packages\\xamarin.essentials\\1.7.0\\xamarin.essentials.1.7.0.nupkg.sha512",
     "C:\\Users\\clood\\.nuget\\packages\\xamarin.forms\\5.0.0.2196\\xamarin.forms.5.0.0.2196.nupkg.sha512"
