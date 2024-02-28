@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TarkovMarket", "TarkovMarket\TarkovMarket.csproj", "{78049F0D-8AC7-4F58-9A60-50D2EF30D2E6}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TarkovMarket.Android", "TarkovMarket.Android\TarkovMarket.Android.csproj", "{20EBDCC8-8FEA-4D6F-B538-6147A1855182}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TarkovMarket.iOS", "TarkovMarket.iOS\TarkovMarket.iOS.csproj", "{013C611D-48B9-4FD1-93AD-2E827B400D8C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78049F0D-8AC7-4F58-9A60-50D2EF30D2E6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78049F0D-8AC7-4F58-9A60-50D2EF30D2E6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78049F0D-8AC7-4F58-9A60-50D2EF30D2E6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78049F0D-8AC7-4F58-9A60-50D2EF30D2E6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{20EBDCC8-8FEA-4D6F-B538-6147A1855182}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{20EBDCC8-8FEA-4D6F-B538-6147A1855182}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{20EBDCC8-8FEA-4D6F-B538-6147A1855182}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{20EBDCC8-8FEA-4D6F-B538-6147A1855182}.Release|Any CPU.Build.0 = Release|Any CPU
+		{013C611D-48B9-4FD1-93AD-2E827B400D8C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{013C611D-48B9-4FD1-93AD-2E827B400D8C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{013C611D-48B9-4FD1-93AD-2E827B400D8C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{013C611D-48B9-4FD1-93AD-2E827B400D8C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F2A3C9BA-7DF7-4D07-8ED2-3EABDF7F8417}
+	EndGlobalSection
+EndGlobal
