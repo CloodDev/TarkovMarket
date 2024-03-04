@@ -7,7 +7,6 @@ using System.Threading.Tasks;
 using System.Net.Http;
 using Xamarin.Forms;
 using System.Diagnostics;
-using Newtonsoft.Json;
 
 namespace TarkovMarket
 {

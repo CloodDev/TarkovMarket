@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TarkovMarket")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+359f9a144b75962dd2aed596b02adce10cdae99c")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7224a23068a889dd9c4855da772251e0a2dce1ed")]
 [assembly: System.Reflection.AssemblyProductAttribute("TarkovMarket")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TarkovMarket")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
